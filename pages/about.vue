@@ -3,11 +3,12 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        Tom Dread's Blog
+        About Tom Dread's Blog
       </h1>
       <h2 class="subtitle">
         Tom trys out Nuxt.js project
       </h2>
+      <p>Testing out NODE VUE & NUXT</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
