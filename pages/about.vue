@@ -8,7 +8,7 @@
       <h2 class="subtitle">
         Tom trys out Nuxt.js project
       </h2>
-      <p>Testing out NODE VUE & NUXT</p>
+      <p>Testing out NODE, VUE, NUXT & netlify</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
