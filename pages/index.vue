@@ -3,10 +3,10 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        tomdreadblog
+        Tom Dread's Blog
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Tom trys out Nuxt.js project
       </h2>
       <div class="links">
         <a
