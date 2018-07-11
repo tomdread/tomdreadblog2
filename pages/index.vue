@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        Tom Dread's Blog
+        Tom Dread's Very Cool Blog
       </h1>
       <h2 class="subtitle">
         Tom trys out Nuxt.js project
