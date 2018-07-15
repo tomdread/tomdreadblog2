@@ -8,7 +8,8 @@
       <h2 class="subtitle">
         Tom trys out Nuxt.js project
       </h2>
-      <p>Testing out NODE, VUE, NUXT & netlify</p>
+      <p class="paragraph">Really... Trying out NODE, VUE, NUXT & netlify. 
+Trying harder!!!</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -59,6 +60,13 @@ export default {
   padding-bottom: 15px;
 }
 
+.paragraph {
+  font-weight: 300;
+  font-size: 18px;
+  color: #526488;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
 .links {
   padding-top: 15px;
 }
