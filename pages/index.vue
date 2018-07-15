@@ -8,6 +8,7 @@
       <h2 class="subtitle">
         Tom trys out Nuxt.js project
       </h2>
+      <p class="para"></p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -17,10 +18,6 @@
           href="https://github.com/tomdread/tomdreadblog2"
           target="_blank"
           class="button--grey">GitHub</a>
-        <a 
-          href="https://vuejs.org" 
-          target="_blank"
-          class="button--grey">VueJS</a>
       </div>
     </div>
   </section>
