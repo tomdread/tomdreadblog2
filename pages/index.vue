@@ -8,7 +8,7 @@
       <h2 class="subtitle">
         Tom trys out Nuxt.js project
       </h2>
-      <p class="para"></p>
+      <p class="paragraph">Getting Started</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -58,7 +58,13 @@ export default {
   word-spacing: 5px;
   padding-bottom: 15px;
 }
-
+.paragraph {
+  font-weight: 300;
+  font-size: 18px;
+  color: #526488;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+}
 .links {
   padding-top: 15px;
 }
