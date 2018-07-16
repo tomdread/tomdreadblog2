@@ -8,7 +8,7 @@
       <h2 class="subtitle">
         Tom trys out Nuxt.js project
       </h2>
-      <p class="paragraph">Getting Started Linux Mac & Windows</p>
+      <p class="paragraph">Getting Started Linux Mac & Windows`</p>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
